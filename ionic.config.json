@@ -1,0 +1,7 @@
+{
+  "name": "sum",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
